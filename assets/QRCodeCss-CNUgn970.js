@@ -1,0 +1,1 @@
+import{a as p,_ as d,o as n,b as t,c as i,P as s}from"./index-BJnB7-P9.js";var r=p.forwardRef(function(a,e){var c=a.children,o=a.className,l=d(a,["children","className"]);return n.createElement("div",t({className:i("card-group",o)},l,{ref:e}),c)});r.propTypes={children:s.node,className:s.string};r.displayName="CCardGroup";export{r as C};
