@@ -1,1 +1,0 @@
-import{y as r}from"./index-CKGnXotc.js";const c=(e,s=1)=>{const o={position:"top-center",autoClose:3e3,hideProgressBar:!1,closeOnClick:!0,pauseOnHover:!0,draggable:!0,progress:void 0,theme:"colored"};s===1?r.success(e,o):s===2?r.error(e,o):r(e,o)};export{c};
