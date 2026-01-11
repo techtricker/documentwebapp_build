@@ -1,0 +1,1 @@
+import{a as c,_ as l,o as m,c as i,P as e}from"./index-C_n6VyLt.js";const a=c.forwardRef((s,r)=>{var{children:t,as:p="span",className:n}=s,o=l(s,["children","as","className"]);return m.createElement(p,Object.assign({className:i("input-group-text",n)},o,{ref:r}),t)});a.propTypes={as:e.elementType,children:e.node,className:e.string};a.displayName="CInputGroupText";export{a as C};

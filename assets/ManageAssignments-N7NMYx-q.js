@@ -1,0 +1,1 @@
+import{j as t}from"./index-C_n6VyLt.js";import"./DefaultLayout-eGTvdpHD.js";import"./index.esm-42cyg-0j.js";import"./CContainer-CjMlxGt7.js";import"./hz_logo_5-DSclOlyI.js";import"./cil-user-Ddrdy7PS.js";const o=()=>t.jsx(t.Fragment,{children:"ManageAssignments"});export{o as default};
